@@ -1,6 +1,6 @@
 ﻿# 📘 DSA with C#
 
-It is focused **only on Data Structures & Algorithms (DSA) using C#** and avoids repetition of general C# concepts already covered in the **C# Programming Roadmap**.
+It is focused **only on Data Structures & Algorithms (DSA) using C#** and avoids repetition of general C# concepts already covered in the **C# Programming**.
 
 ---
 
